@@ -1,0 +1,32 @@
+description: Ultralytics YOLOv8s-cls model trained on C:\Users\U0011\Desktop\Recognition\Data\model
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2023-12-12T12:55:17.575013'
+version: 8.0.207
+stride: 1
+task: classify
+batch: 1
+imgsz:
+- 224
+- 224
+names:
+  0: CAPTIVA
+  1: COBALT
+  2: DAMAS
+  3: EPICA
+  4: EQUINOX
+  5: LABO
+  6: LACETTI
+  7: MALIBU
+  8: MATIZ
+  9: MONZA
+  10: NEXIA
+  11: ONIX
+  12: ORLANDO
+  13: SPARK
+  14: TACUMA
+  15: TAHOE
+  16: TICO
+  17: TRACKER
+  18: TRAILBLAZER
+  19: TRAVERSE
